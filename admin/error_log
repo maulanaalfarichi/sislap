@@ -1,0 +1,24 @@
+[22-May-2018 02:54:10 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/takatek/public_html/e-bisa/assets/dompdf/include/autoload.inc.php on line 83
+[22-May-2018 02:54:10 UTC] PHP Warning:  Use of undefined constant kewarganegaraan - assumed 'kewarganegaraan' (this will throw an Error in a future version of PHP) in /home/takatek/public_html/e-bisa/admin/cetak_dataSiswa.php on line 114
+[22-May-2018 02:54:10 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/takatek/public_html/e-bisa/assets/dompdf/include/style.cls.php on line 784
+[22-May-2018 02:54:10 UTC] PHP Warning:  A non-numeric value encountered in /home/takatek/public_html/e-bisa/assets/dompdf/include/page_frame_decorator.cls.php on line 439
+[22-May-2018 02:54:10 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/takatek/public_html/e-bisa/assets/dompdf/include/text_frame_reflower.cls.php on line 374
+[22-May-2018 02:54:10 UTC] PHP Warning:  A non-numeric value encountered in /home/takatek/public_html/e-bisa/assets/dompdf/include/block_frame_reflower.cls.php on line 699
+[22-May-2018 02:54:10 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/takatek/public_html/e-bisa/assets/dompdf/include/text_frame_reflower.cls.php on line 374
+[22-May-2018 02:54:10 UTC] PHP Warning:  A non-numeric value encountered in /home/takatek/public_html/e-bisa/assets/dompdf/include/block_frame_reflower.cls.php on line 699
+[22-May-2018 02:54:10 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/takatek/public_html/e-bisa/assets/dompdf/include/text_frame_reflower.cls.php on line 374
+[22-May-2018 02:54:10 UTC] PHP Warning:  A non-numeric value encountered in /home/takatek/public_html/e-bisa/assets/dompdf/include/block_frame_reflower.cls.php on line 699
+[22-May-2018 02:54:10 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/takatek/public_html/e-bisa/assets/dompdf/include/text_frame_reflower.cls.php on line 374
+[22-May-2018 02:54:10 UTC] PHP Warning:  A non-numeric value encountered in /home/takatek/public_html/e-bisa/assets/dompdf/include/style.cls.php on line 472
+[22-May-2018 02:54:13 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/takatek/public_html/e-bisa/assets/dompdf/include/autoload.inc.php on line 83
+[22-May-2018 02:54:13 UTC] PHP Warning:  Use of undefined constant kewarganegaraan - assumed 'kewarganegaraan' (this will throw an Error in a future version of PHP) in /home/takatek/public_html/e-bisa/admin/cetak_dataSiswa.php on line 114
+[22-May-2018 02:54:13 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/takatek/public_html/e-bisa/assets/dompdf/include/style.cls.php on line 784
+[22-May-2018 02:54:13 UTC] PHP Warning:  A non-numeric value encountered in /home/takatek/public_html/e-bisa/assets/dompdf/include/page_frame_decorator.cls.php on line 439
+[22-May-2018 02:54:13 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/takatek/public_html/e-bisa/assets/dompdf/include/text_frame_reflower.cls.php on line 374
+[22-May-2018 02:54:13 UTC] PHP Warning:  A non-numeric value encountered in /home/takatek/public_html/e-bisa/assets/dompdf/include/block_frame_reflower.cls.php on line 699
+[22-May-2018 02:54:13 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/takatek/public_html/e-bisa/assets/dompdf/include/text_frame_reflower.cls.php on line 374
+[22-May-2018 02:54:13 UTC] PHP Warning:  A non-numeric value encountered in /home/takatek/public_html/e-bisa/assets/dompdf/include/block_frame_reflower.cls.php on line 699
+[22-May-2018 02:54:13 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/takatek/public_html/e-bisa/assets/dompdf/include/text_frame_reflower.cls.php on line 374
+[22-May-2018 02:54:13 UTC] PHP Warning:  A non-numeric value encountered in /home/takatek/public_html/e-bisa/assets/dompdf/include/block_frame_reflower.cls.php on line 699
+[22-May-2018 02:54:13 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/takatek/public_html/e-bisa/assets/dompdf/include/text_frame_reflower.cls.php on line 374
+[22-May-2018 02:54:13 UTC] PHP Warning:  A non-numeric value encountered in /home/takatek/public_html/e-bisa/assets/dompdf/include/style.cls.php on line 472

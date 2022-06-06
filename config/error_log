@@ -1,0 +1,7 @@
+[22-May-2018 02:36:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/takatek/public_html/e-bisa/config/cek.php on line 6
+[22-May-2018 02:42:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/takatek/public_html/e-bisa/config/cek.php on line 6
+[22-May-2018 02:43:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/takatek/public_html/e-bisa/config/cek.php on line 6
+[22-May-2018 02:59:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/takatek/public_html/e-bisa/config/cek.php on line 6
+[12-Jul-2018 06:22:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/takatek/public_html/e-bisa/config/cek.php on line 6
+[12-Jul-2018 06:22:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/takatek/public_html/e-bisa/config/cek.php on line 6
+[15-Jul-2018 21:29:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/takatek/public_html/e-bisa/config/cek.php on line 6
